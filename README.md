@@ -8,7 +8,7 @@ This Weather App is made in Java using Java swing component and Openweathermap A
 
 # Installation
 
- There are 2 ways, you can try this game yourself:
+ There are 2 ways, you can try this app yourself:
 - download the latest release version of this repo
 - clone this repo and run using NetBeans
 
