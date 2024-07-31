@@ -12,6 +12,17 @@ This Weather App is made in Java using Java swing component and Openweathermap A
 - download the latest release version of this repo
 - clone this repo and run using NetBeans
 
+## Steps if you are using VSCode:
+
+- Open the file through VSCode 
+- Make sure you have installed all the **extensions** that are importand for using **JAVA**
+- Under the Java Project 
+
+   [![Untitled-design.png](https://i.postimg.cc/HnZn3Pt2/Untitled-design.png)](https://postimg.cc/30G3x1V4)
+ 
+ 	Click on the **Debug Button** 
+ 	
+ - Then choose UI.java
 
 ## Contributing
 
